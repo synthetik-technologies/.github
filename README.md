@@ -1,2 +1,2 @@
 # gh-actions
-A repo for hosting our Github Actions repos.
+A repo for hosting our GitHub Actions.
